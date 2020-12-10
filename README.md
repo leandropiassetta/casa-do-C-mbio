@@ -1,2 +1,2 @@
-# casa-do-C-mbio
+# casa-do-Câmbio
 Casa-do-Câmbio
